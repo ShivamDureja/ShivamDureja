@@ -5,15 +5,15 @@
 ### A passionate Frontend | Backend developer from India
 
 </div>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/S63rGWZ/sultan-alrefaei-programmer.gif" alt="sultan-alrefaei-programmer" border="0" align="right" width="350" height="350" /></a>
 <br>
-
 - 🔭 I’m currently working on **My Programming Skills**
 - 🌱 I’m currently deepening my understanding on **Backend Technologies** 
 - 👯 I'm seeking opportunities to contribute to **Open-Source Projects** 
 - 📫 You can reach me on shivamdureja13@gmail.com 🚀
 - 🔗 Explore more on my website: [Visit My Site](https://shivamdureja.netlify.app/) 🌟
 
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/S63rGWZ/sultan-alrefaei-programmer.gif" alt="sultan-alrefaei-programmer" border="0" align="right" /></a>
+
 
 
 
